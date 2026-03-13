@@ -23,3 +23,9 @@ Recipe Finder is an Android application that helps users quickly discover differ
 ## 💻 Installation
 
 1. Clone the repository
+
+## 🎥 Demo Video
+
+Watch the demo video of the Recipe Finder App here:
+
+https://drive.google.com/file/d/1VbjnFyY2TMgEebPLTIZ1Z_eYwNtE4Z1U/view?usp=drive_link
